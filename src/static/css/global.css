@@ -1,0 +1,10 @@
+body {
+    background-color: white;
+}
+
+/*
+因为新闻列表中无法完整的显示全部新闻信息，当上拉时最底部的一条信息无法完成展示出来，那么这时候就需要通过设置外边距将其显示出来
+*/
+.bottom-style-div{
+    margin-bottom: 50px;
+}
