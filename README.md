@@ -25,3 +25,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 主页面
 https://github.com/591774192/taobao/blob/master/%E4%B8%BB%E9%A1%B5%E9%9D%A2.png
 
+
+图文分享
+https://github.com/591774192/taobao/blob/master/%E5%9B%BE%E6%96%87%E5%88%86%E4%BA%AB%E6%A8%A1%E5%9D%97.png
+
