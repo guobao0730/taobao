@@ -24,7 +24,6 @@
 
 
 
-
           <ul id="imgs-ul">
             <!--
             v-for="(item,index) in pictureDetails.imgs" :key="index"
@@ -45,6 +44,14 @@
         <div class="paddingDiv" id="detailsDiv">
           {{pictureDetails.details}}
         </div>
+
+
+
+        <!--
+        评论
+        -->
+
+
       </div>
 
 
@@ -87,7 +94,6 @@
       {
         src: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1539343919095&di=ec21cd05290b711f1999d210958bf52e&imgtype=0&src=http%3A%2F%2Fpic.58pic.com%2F58pic%2F14%2F61%2F22%2F62m58PICFNs_1024.jpg',
         w: 1200,
-        h: 900
       },
 
     ],
